@@ -1,5 +1,11 @@
 /* ここから下に記載していく */
+.wrap{
+    display: flex;
+    margin: auto;
+    justify-content: center;
+}
+
 body{
     font-size: 16px;
-    background-color: black;
+    background-color: white;
 }
